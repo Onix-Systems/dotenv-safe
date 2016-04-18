@@ -15,8 +15,8 @@
   },
   "author": "Rodrigo López Dato <rlopezdato@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "dotenv": "^1.2.0"
+  "peerDependencies": {
+    "dotenv": ">= 1.2.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
